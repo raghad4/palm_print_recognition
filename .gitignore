@@ -1,0 +1,10 @@
+
+dataset/
+dataset_all/
+preprocessed_dataset/
+test/
+.idea/
+
+
+*.h5
+*.npy
