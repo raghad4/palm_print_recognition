@@ -8,3 +8,4 @@ test/
 
 *.h5
 *.npy
+.DS_Store
