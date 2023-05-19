@@ -9,3 +9,5 @@ test/
 *.h5
 *.npy
 .DS_Store
+
+__pycache__
